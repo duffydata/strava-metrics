@@ -1,2 +1,2 @@
-# strava_metrics
+# strava-metrics
 Strava Metrics Dashboard 
