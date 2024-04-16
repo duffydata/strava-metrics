@@ -3,7 +3,7 @@ Strava Metrics Dashboard
 
 This notebook provides an easier way for users to extract their strava activities data from the Strava API
 
-How to use? 
+**How To Use**
 To successfully extract data  from the Strava API the notebook requires the following, to be input : 
 Strava Client ID
 Strava Client Secret
