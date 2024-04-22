@@ -4,7 +4,8 @@ This notebook provides an easier way for users to extract their strava activitie
 
 **How To Use**
 
-To successfully extract data  from the Strava API the notebook requires the following to be input : 
+To successfully extract data  from the Strava API the notebook requires the following to be input: 
+
 Strava Client ID
 
 Strava Client Secret
