@@ -1,14 +1,14 @@
 # strava-metrics
 
 The Strava-Metrics repositary provides a Strava API Client and a notebook to analyse your running activities.  
-
+Using heart rate, cadencem 
 **How To Use**
 
 The Strava API uses OAUTH for authenication so you require the following before you can retrieve your data: 
 - Strava Client ID
 - Strava Client Secret
 - Strava Athlete ID
-- 
+
 To retrieve these you will first need to create a Strava API Application which takes a few mins to set up - https://www.strava.com/settings/api 
 Please see Strava Documentation for more information https://developers.strava.com/docs/getting-started/
 
