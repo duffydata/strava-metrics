@@ -1,7 +1,6 @@
 # strava-metrics
 
-The Strava-Metrics repositary provides a Strava API Client and a notebook to analyse your running activities.  
-Using heart rate, cadencem 
+The Strava-Metrics repositary provides a Strava API Client and a notebook to analyse your running activities, using heart rate data.  
 **How To Use**
 
 The Strava API uses OAUTH for authenication so you require the following before you can retrieve your data: 
